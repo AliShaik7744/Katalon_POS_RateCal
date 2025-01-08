@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Calculate</name>
+   <tag></tag>
+   <elementGuidId>e3d98e5d-06e4-4e1c-bb2c-96585fbc9e0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@type=' button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Calculate&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c2d7d19f-0439-4523-aea7-ac1e5498c383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value> button</value>
+      <webElementGuid>e5812e4d-750d-44de-a115-7e1411a914c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>no-underline cursor-pointer items-center justify-center rounded-md bg-red-600 px-12 py-3 text-xl font-extrabold text-white shadow-sm focus:outline-none</value>
+      <webElementGuid>11724d11-de83-43bd-b90d-892caec43f2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Calculate </value>
+      <webElementGuid>78d5cb20-07e2-44c1-b959-a66494a381ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentBody&quot;)/div[@class=&quot;content-bg min-h-full&quot;]/app-static-layout[1]/app-rate-calculator-v2[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-2 sm:mt-24 mx-auto&quot;]/div[@class=&quot;calculator-wrapper w-full bg-[#F2EBFF] py-12&quot;]/div[@class=&quot;flex max-w-7xl mx-auto justify-end px-8 sm:px-0&quot;]/a[@class=&quot;no-underline cursor-pointer items-center justify-center rounded-md bg-red-600 px-12 py-3 text-xl font-extrabold text-white shadow-sm focus:outline-none&quot;]</value>
+      <webElementGuid>817dceee-b6d8-4b17-8a0b-846521d0d9df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@type=' button']</value>
+      <webElementGuid>ef0e089a-c9df-45c5-95d4-dc0cbed70732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentBody']/div/app-static-layout/app-rate-calculator-v2/div/div[3]/div[2]/a</value>
+      <webElementGuid>5a61684f-754b-42b7-a642-b9c5024f1e96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Calculate')]</value>
+      <webElementGuid>2b4e02c9-3b6d-4a51-a396-53b76f71e5db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter weight.'])[1]/following::a[1]</value>
+      <webElementGuid>9ee50382-b8aa-4b4d-887b-b16c691fbdce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Max Weight is 30 kg'])[1]/following::a[1]</value>
+      <webElementGuid>aeed6e34-3d53-4030-a612-1be78d4d43eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enquire Now'])[1]/preceding::a[1]</value>
+      <webElementGuid>59c0df05-5b9f-48b7-b70f-b5ae82fd3531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products you might be interested in'])[1]/preceding::a[2]</value>
+      <webElementGuid>5f47f1cf-57c7-4d26-b9d7-6082b99d3660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Calculate']/parent::*</value>
+      <webElementGuid>7f0929f2-174f-44a1-b12c-6703a3f62608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/a</value>
+      <webElementGuid>747155f4-9a7a-4237-b15e-13039390c7fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@type = ' button' and (text() = ' Calculate ' or . = ' Calculate ')]</value>
+      <webElementGuid>306c432a-0386-4f49-970f-4d1a6e2c6794</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

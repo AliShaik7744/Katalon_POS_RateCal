@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Rate Calculator_absolute inset-0 -z-10 _9f4a93</name>
+   <tag></tag>
+   <elementGuidId>1130646d-a382-4c87-9f89-cd80151af845</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contentBody']/div/app-static-layout/app-rate-calculator-v2/div/div[2]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.absolute.inset-0.-z-10.h-full.w-full.object-cover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;Pos Malaysia customer sealing pos parcel box&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>51e565fb-4514-4f78-b85c-bcb35e133372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Pos Malaysia customer sealing pos parcel box</value>
+      <webElementGuid>fadc7c16-c60d-408a-b888-61ddf1e58ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute inset-0 -z-10 h-full w-full object-cover</value>
+      <webElementGuid>b530b9b4-70ae-408b-a227-bf9fd166f2ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d38eiojdjahdit.cloudfront.net/ratecalculator_kv_d_2x_f219a85daa.png</value>
+      <webElementGuid>e2c47307-5b89-4a7b-bb54-da398f10db50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentBody&quot;)/div[@class=&quot;content-bg min-h-full&quot;]/app-static-layout[1]/app-rate-calculator-v2[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-2 sm:mt-24 mx-auto&quot;]/div[@class=&quot;mx-auto w-full px-6 lg:px-8 ng-star-inserted&quot;]/div[@class=&quot;relative isolate overflow-hidden py-24 sm:py-32&quot;]/img[@class=&quot;absolute inset-0 -z-10 h-full w-full object-cover&quot;]</value>
+      <webElementGuid>6658dd2b-87a2-4dad-97dd-95dc76723bcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentBody']/div/app-static-layout/app-rate-calculator-v2/div/div[2]/div/img</value>
+      <webElementGuid>89be7c0c-b682-4692-8bb1-b33296e4401c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Pos Malaysia customer sealing pos parcel box']</value>
+      <webElementGuid>5ca06676-6620-4af1-ae3f-7421f5790a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>c9a34ce2-53dd-43ce-8a96-86ebe5ceb108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Pos Malaysia customer sealing pos parcel box' and @src = 'https://d38eiojdjahdit.cloudfront.net/ratecalculator_kv_d_2x_f219a85daa.png']</value>
+      <webElementGuid>22454435-dc25-4268-8bf3-94f8a62848b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

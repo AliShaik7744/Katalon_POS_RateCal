@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POS_tc02_Ratecal_SpyWeb</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2763ae61-7144-4517-8b7e-cfb7c12ee58a</testCaseGuid>
+</TestCaseEntity>

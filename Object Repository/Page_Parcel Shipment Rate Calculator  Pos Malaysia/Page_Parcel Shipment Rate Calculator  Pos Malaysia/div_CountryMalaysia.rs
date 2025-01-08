@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CountryMalaysia</name>
+   <tag></tag>
+   <elementGuidId>55ecf55e-9d0f-488b-abfa-a041960833af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contentBody']/div/app-static-layout/app-rate-calculator-v2/div/div[3]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.country-container.shadow-md.rounded-lg.px-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^CountryMalaysia$/ >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>598602fb-c119-4920-9bb3-d8c05a922e1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>country-container shadow-md rounded-lg px-3</value>
+      <webElementGuid>b3ef5fa9-428b-4dec-b7a8-965a769269cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CountryMalaysia</value>
+      <webElementGuid>b7ab39f2-b4c8-47c8-8f09-c0cf248a8c6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentBody&quot;)/div[@class=&quot;content-bg min-h-full&quot;]/app-static-layout[1]/app-rate-calculator-v2[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-2 sm:mt-24 mx-auto&quot;]/div[@class=&quot;calculator-wrapper w-full bg-[#F2EBFF] py-12&quot;]/div[@class=&quot;d-md-flex d-sm-block calculator-container max-w-7xl mx-auto mt-12 sm:space-x-3 px-6 sm:px-0 ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;calculator-col col-sm-12 w-35&quot;]/div[@class=&quot;country-container shadow-md rounded-lg px-3&quot;]</value>
+      <webElementGuid>162202fc-bdfe-4c33-9772-933196c2d4ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentBody']/div/app-static-layout/app-rate-calculator-v2/div/div[3]/div/div/div[2]</value>
+      <webElementGuid>116fab56-bae1-4f8c-ab4b-2a740d069300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[1]/following::div[1]</value>
+      <webElementGuid>da325b20-4d5d-47ec-a877-f20239007d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Rate Calculator'])[1]/following::div[5]</value>
+      <webElementGuid>7a48d979-e41b-4117-96c4-854d69775ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]</value>
+      <webElementGuid>93701959-615c-4a53-87e5-1e036981e647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CountryMalaysia' or . = 'CountryMalaysia')]</value>
+      <webElementGuid>4c2ba08a-0253-4dfb-8670-ef3c77278d43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

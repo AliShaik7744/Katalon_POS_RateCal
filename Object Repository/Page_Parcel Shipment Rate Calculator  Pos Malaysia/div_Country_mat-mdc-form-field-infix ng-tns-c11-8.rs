@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Country_mat-mdc-form-field-infix ng-tns-c11-8</name>
+   <tag></tag>
+   <elementGuidId>ce7e09af-22ea-4a86-8281-f89aa52f5886</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-select-country[@id='country']/mat-form-field/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-mdc-form-field-infix.ng-tns-c11-8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.mat-mdc-form-field-infix</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d7663b05-9575-4f9d-9c8f-c2e437940fcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-form-field-infix ng-tns-c11-8</value>
+      <webElementGuid>6df4b230-786a-4397-9863-d53001a794ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;country&quot;)/mat-form-field[@class=&quot;mat-mdc-form-field ng-tns-c11-8 mat-mdc-form-field-type-mat-input mat-form-field-appearance-outline mat-primary ng-star-inserted mat-mdc-form-field-has-icon-suffix&quot;]/div[@class=&quot;mat-mdc-text-field-wrapper mdc-text-field ng-tns-c11-8 mdc-text-field--outlined mdc-text-field--no-label&quot;]/div[@class=&quot;mat-mdc-form-field-flex ng-tns-c11-8&quot;]/div[@class=&quot;mat-mdc-form-field-infix ng-tns-c11-8&quot;]</value>
+      <webElementGuid>1a84b8bd-7234-4df4-b3e8-8aeadf0648ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select-country[@id='country']/mat-form-field/div/div/div[2]</value>
+      <webElementGuid>ca04ab77-5ff9-4912-b1c0-869b5722cd2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[2]/following::div[7]</value>
+      <webElementGuid>f53a4422-4e92-42bf-9b82-8561619920a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To'])[1]/following::div[8]</value>
+      <webElementGuid>9de0fed5-a225-44b7-bd48-47931991befc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter postcode.'])[2]/preceding::div[5]</value>
+      <webElementGuid>cfc4cb57-4082-450c-9937-c831bc9e11ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weight (kg)'])[1]/preceding::div[8]</value>
+      <webElementGuid>ce7fb493-5742-4447-aa9e-b138abec3291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field/div/div/div[2]</value>
+      <webElementGuid>73cc1237-3f5e-4e6f-8c07-001daff3c8c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POS_tc01_Ratecal_RecordWeb</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c6699f9a-a1de-430a-8b88-d27c3f038f4e</testCaseGuid>
+</TestCaseEntity>

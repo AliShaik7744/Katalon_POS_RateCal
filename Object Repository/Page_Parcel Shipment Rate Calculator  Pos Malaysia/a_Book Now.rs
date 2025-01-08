@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Book Now</name>
+   <tag></tag>
+   <elementGuidId>8c0c04c8-1d57-4043-834d-76762b398162</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contentBody']/div/app-static-layout/app-rate-calculator-v2/div/div[4]/div/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Book Now&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aae4e6cd-459e-49a1-9a46-092e7b9ddf12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>no-underline cursor-pointer mt-1 items-center justify-center rounded-md border bg-[#ff474f] px-12 py-3 text-lg font-bold text-white shadow-sm focus:outline-none</value>
+      <webElementGuid>faf11b6c-7df2-481e-a600-0cd3b0beca20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://send.pos.com.my/home?lg=en</value>
+      <webElementGuid>44e5378d-129a-4abb-941d-9a187d25e5af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>77c1575b-53f9-4d18-98a9-6823c4195abc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Book Now </value>
+      <webElementGuid>81127fa6-1ee3-4147-8796-22e01963497d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentBody&quot;)/div[@class=&quot;content-bg min-h-full&quot;]/app-static-layout[1]/app-rate-calculator-v2[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pt-2 sm:mt-24 mx-auto&quot;]/div[@class=&quot;bg-white ng-star-inserted&quot;]/div[@class=&quot;mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:pb-24&quot;]/div[@class=&quot;border-b border-gray-300 w-full px-2 py-4 sm:flex sm:items-center sm:justify-between sm:space-x-6 sm:px-6 lg:space-x-8 ng-star-inserted&quot;]/div[@class=&quot;flex flex-col justify-start sm:items-center items-start h-full&quot;]/a[@class=&quot;no-underline cursor-pointer mt-1 items-center justify-center rounded-md border bg-[#ff474f] px-12 py-3 text-lg font-bold text-white shadow-sm focus:outline-none&quot;]</value>
+      <webElementGuid>d59b26ce-28ef-44e4-9921-91f930e1fd7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentBody']/div/app-static-layout/app-rate-calculator-v2/div/div[4]/div/div[2]/div/a</value>
+      <webElementGuid>38a419d5-420a-4c95-b4a6-56fe8624b058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Book Now')]</value>
+      <webElementGuid>9347f092-0e15-4bba-9e4d-21ecdd344a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RM 676.50'])[1]/following::a[1]</value>
+      <webElementGuid>05642a78-2ea2-45e6-aa0a-40e736ee637e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insurance'])[1]/following::a[1]</value>
+      <webElementGuid>983560d4-e9c6-4db7-a0e6-b482194f0f86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Type'])[2]/preceding::a[1]</value>
+      <webElementGuid>572f0f6e-806a-4d8a-9e52-597bdf704dea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='International Air Parcel'])[1]/preceding::a[1]</value>
+      <webElementGuid>d5afd0bf-8ea0-4529-9bf0-9b5ff7f813b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Book Now']/parent::*</value>
+      <webElementGuid>5027112c-51df-4a28-b79d-d03a8adf36e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://send.pos.com.my/home?lg=en')]</value>
+      <webElementGuid>5b2580a7-df17-4969-911a-0dc6c4cc649e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/a</value>
+      <webElementGuid>acf9c942-fd1d-42e1-a21d-c2dfb088df12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://send.pos.com.my/home?lg=en' and (text() = ' Book Now ' or . = ' Book Now ')]</value>
+      <webElementGuid>f3d09c71-dd26-45d5-9b3a-7daeaea4573b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
